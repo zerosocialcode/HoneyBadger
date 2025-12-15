@@ -1,0 +1,4 @@
+instagrapi
+cryptography
+colorama
+requests
